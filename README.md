@@ -1,3 +1,2 @@
-# testrepo
-Test Repo for Week 5 Assignment
-This Repo is created for the Week 5 Assignment only.
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
