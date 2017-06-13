@@ -1,2 +1,2 @@
-# stat6306introdatascience
-Files and projects for Stat 6306 Introduction to Data Science
+Test Repo
+Paul Panek's Test Repository.  Not much to see here
